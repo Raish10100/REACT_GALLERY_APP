@@ -1,0 +1,32 @@
+.scrollable-container{
+    max-height: 100vh;
+    overflow: auto;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 3rem;
+   
+}
+
+.buttons button{
+    width: 200px;
+    padding: 10px;
+    border: none;
+    background-color: #b0bbda ;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    letter-spacing: 2px;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.buttons button:hover{
+    background-color: #b0bbdaa7;
+}
+.buttons button:disabled{
+    background-color: #b0bbda33;
+}

@@ -1,0 +1,25 @@
+.loading{
+   display: flex;
+   justify-content: center;
+   height: 900px;
+   color: #f3f3f4;
+   align-items: center;
+}
+.images-main-container{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+img{
+    width: 400px;
+    border-radius: 15px;
+    border: 5px solid #b0bbda;
+    /* flex-basis: 25%; */
+}
+.footer{
+    text-align: center;
+    margin-bottom: -20px;
+    color: #f3f3f4;
+}

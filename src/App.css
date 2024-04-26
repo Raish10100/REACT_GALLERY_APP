@@ -1,0 +1,23 @@
+body{
+  background-color: #2f374d;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.heading{
+  text-align: center;
+  letter-spacing: 5px;
+  color: #ffffff;
+  transition: 0.3s;
+}
+
+.heading:hover{
+  color: #dcdce277;
+}
+.heading-link{
+  text-decoration: none;
+
+}
