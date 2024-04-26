@@ -2,3 +2,7 @@
 from = "/*"
 to = "/index.html"
 status = 200
+
+[build]
+  base = "build"  # Specify the correct base directory path
+  command = "npm run build"  # Specify the build command for your React app
