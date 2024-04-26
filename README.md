@@ -7,7 +7,7 @@ This React-based gallery app enables users to effortlessly browse through a capt
 ## Preview
 
 ### Website Link
-[Gallery App](http://localhost:5173)
+[Gallery App](https://raish-pix-gallery.netlify.app/)
 
 ### Photos
 ![Home Page](https://res.cloudinary.com/deodsnio3/image/upload/v1714095207/gallery_app_img1_geqfgf.png "Home Page")
