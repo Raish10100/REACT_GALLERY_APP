@@ -6,13 +6,12 @@ This is a React-based gallery app that allows users to view and navigate through
 ## Preview
 
 ### website Link
-### video
 ### photoes
-![Sign-Up Page](https://res.cloudinary.com/deodsnio3/image/upload/v1713861710/Sign%20Up%20Page.png "SignUp Page")
-*Caption: SignUp page of the Instagram User Page clone*
+![Home Page](https://res.cloudinary.com/deodsnio3/image/upload/v1714095207/gallery_app_img1_geqfgf.png "Home Page")
+*Caption: Home page of the Gallery App*
 
-![Sign-In Page](https://res.cloudinary.com/deodsnio3/image/upload/v1713861709/Sign%20In%20Page.png "SignIn Page")
-*Caption: SignIn page of the Instagram User Page clone*
+![Image-Details page](https://res.cloudinary.com/deodsnio3/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1714095207/gallery_app_img1_geqfgf.png "Image-Details Page")
+*Caption: Image-Details page of the Gallery App*
 
 ## Features
 
