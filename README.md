@@ -1,27 +1,30 @@
-# Gallery App
+# Assignment-1 of Walking with REACT Part-3
 
-This is a React-based gallery app that allows users to view and navigate through a collection of images.
+## Gallery App
 
+This React-based gallery app enables users to effortlessly browse through a captivating collection of images.
 
 ## Preview
 
-### website Link
-### photoes
+### Website Link
+[Gallery App](http://localhost:5173)
+
+### Photos
 ![Home Page](https://res.cloudinary.com/deodsnio3/image/upload/v1714095207/gallery_app_img1_geqfgf.png "Home Page")
 *Caption: Home page of the Gallery App*
 
-![Image-Details page](https://res.cloudinary.com/deodsnio3/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1714095207/gallery_app_img1_geqfgf.png "Image-Details Page")
+![Image-Details page](https://res.cloudinary.com/deodsnio3/image/upload/v1714095206/gallery_app_img2_l5i3s0.png "Image-Details Page")
 *Caption: Image-Details page of the Gallery App*
 
 ## Features
 
-- **Sign up:** Users can create a new account by providing a username, password, name, and email.
-- **Log in:** Existing users can log in using their username and password.
+- **Home Page:** Users can explore a stunning array of diverse images. They can effortlessly navigate between pages using next and previous buttons.
+- **Image-Details Page:** Users can delve into detailed information about each image upon clicking.
 
 ## Installation
 
-1. Clone the repository to your machine.
-2. Open the terminal and navigate to the `insta-userpage` folder.
+1. Clone the repository to your local machine.
+2. Open the terminal and navigate to the project directory.
 3. Install dependencies: `npm install`
 
 ## Usage
@@ -45,5 +48,15 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 ## Acknowledgments
 
-- [React](https://reactjs.org) - JavaScript library for building user interfaces.
+- [React](https://reactjs.org) - A powerful JavaScript library for building user interfaces.
+- React Router Dom
+- Axios (for API requests)
 - JSX/CSS
+
+## Credits
+
+This project was created by [Raish Vadaviya]. It utilizes images from this [API](https://api.slingacademy.com/v1/sample-data/photos?offset=5&limit=20) for assignment purposes.
+
+## Contact
+
+- [Contact Me](linktr.ee/Raish101001)
