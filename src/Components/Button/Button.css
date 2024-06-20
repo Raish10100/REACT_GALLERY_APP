@@ -9,7 +9,7 @@
     align-items: center;
     gap: 20px;
     margin-top: 3rem;
-   
+   flex-wrap: wrap;
 }
 
 .buttons button{

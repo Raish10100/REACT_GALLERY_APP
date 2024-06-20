@@ -23,3 +23,9 @@ img{
     margin-bottom: -20px;
     color: #f3f3f4;
 }
+
+@media screen and (max-width: 460px) {
+    img{
+        width: 300px;
+    }
+}
